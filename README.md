@@ -1,7 +1,6 @@
-<h2 align="left">Hi 👋! My name is FLYDA-hue，and I'm a technology newbie</h2>
-
+### Hi there, I am FLYSDA-hue👋
 ###
-
+📊 Stats:
 <br clear="both">
 
 <div align="center">
@@ -10,7 +9,7 @@
 </div>
 
 ###
-
+🏗️ Learning:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -25,8 +24,13 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="wechat logo"  />
 </div>
 
-email:2629238384@qq.com
 
+
+### 📫 Reach me:
+
+- **QQ** : 2629238384
+- **WeChat** : _17682385890
+- **Phone** :17682385890
+- **E-mail** : 2629238384@qq.com
